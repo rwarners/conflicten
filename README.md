@@ -1,12 +1,13 @@
 Voeg hier je voornaam toe, één naam per regel. Houd de lijst alfabetisch (A-Z) en voeg geen dubbele namen toe:
 Christian
+Damian
 Davin
 Delano
 Driss
 Filip
 Gia
-Hawre
 Haroune
+Hawre
 Jan
 Joshua
 Juan
@@ -19,4 +20,3 @@ Rida
 Rizvan
 Timo
 Zedrick
-Damian
