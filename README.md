@@ -5,7 +5,6 @@ Filip
 jan
 Joshua
 Davin
->>>>>>> f75dd4b2214abce45dc3ce8446a6a3535bb7bdf0
 Juan
 Julian
 junailo
