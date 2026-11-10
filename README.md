@@ -1,11 +1,11 @@
-Voeg hier je voornaam toe, elke regel een nieuwe naam, probeer op alfabetischie volgored (A-Z) :
+Voeg hier je voornaam toe, één naam per regel. Houd de lijst altijd alfabetisch (A-Z), ook wanneer je een naam toevoegt:
+Christian
 Filip
+jan
+Joshua
 Juan
 Julian
-Joshua
-Luca
 junailo
-jan
+Luca
 micha
 Zedrick
-Christian
