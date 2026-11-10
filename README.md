@@ -1,6 +1,8 @@
-Voeg hier je voornaam toe, elke regel een nieuwe naam, probeer op alfabetischie volgored (A-Z) :
+Voeg hier je voornaam toe, één naam per regel. Houd de lijst altijd alfabetisch (A-Z), ook wanneer je een naam toevoegt:
 Christian
+Driss
 Davin
+Filip
 Juan
 Julian
 Joshua
