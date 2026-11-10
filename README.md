@@ -4,7 +4,6 @@ Davin
 Filip
 jan
 Joshua
-Davin
 Juan
 Julian
 junailo
