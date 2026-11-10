@@ -5,3 +5,5 @@ Joshua
 Luca
 jan
 Micha
+Zedrick
+Christian
