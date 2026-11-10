@@ -1,9 +1,18 @@
 Voeg hier je voornaam toe, elke regel een nieuwe naam, probeer op alfabetischie volgored (A-Z) :
+
 Driss
+
+
+Davin
+
+Filip
 Juan
+Julian
 Joshua
 Luca
+junailo
 jan
-Micha
+micha
+timo
 Zedrick
 Christian
