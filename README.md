@@ -1,18 +1,22 @@
+Voeg hier je voornaam toe, elke regel een nieuwe naam, probeer op alfabetischie volgored (A-Z) :
 
-
-Voeg hier je voornaam toe, één naam per regel. Houd de lijst altijd alfabetisch (A-Z) :
 Christian
+Driss
 Davin
 Delano
+Driss
 Filip
-jan
+Gia
+Hawre
+Jan
 Joshua
-Davin
 Juan
 Julian
-junailo
+Junailo
 Luca
-micha
+Micha
+Nicklas
+Rida
 Rizvan
-timo
+Timo
 Zedrick
