@@ -4,6 +4,6 @@ Joshua
 Luca
 junailo
 jan
-Micha
+micha
 Zedrick
 Christian
