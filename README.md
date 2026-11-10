@@ -15,8 +15,11 @@ Filip
 jan
 Joshua
 Davin
+<<<<<<< HEAD
 >>>>>>> f75dd4b2214abce45dc3ce8446a6a3535bb7bdf0
 >>>>>>> bdec2cfbe233f736d26a15d12bbf82ce608a71ca
+=======
+>>>>>>> 1ec756ad8bb3da4fc7e92c812cb3e8e6be83b6c1
 Juan
 Julian
 junailo
