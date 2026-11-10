@@ -3,6 +3,7 @@ Christian
 Davin
 Driss
 Filip
+Hawre
 Jan
 Joshua
 Juan
@@ -10,6 +11,7 @@ Julian
 Junailo
 Luca
 Micha
+nicklas
 Rida
 Rizvan
 Timo
