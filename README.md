@@ -1,23 +1,24 @@
-Voeg hier je voornaam toe, één naam per regel. Houd de lijst alfabetisch (A-Z) en voeg geen dubbele namen toe:
-Christian
-Damian
-Davin
-Delano
-Driss
-Filip
-Gia
-Haroune
-Hawre
-Jan
-Joshua
-Juan
-Julian
-Junailo
-Luca
-Micha
-Nicklas
-Rida
-Rizvan
-Rychano
-Timo
-Zedrick
+Voeg hier je voornaam toe, één naam per regel, beginnend met `- `. Houd de lijst alfabetisch (A-Z) en voeg geen dubbele namen toe:
+
+- Christian
+- Damian
+- Davin
+- Delano
+- Driss
+- Filip
+- Gia
+- Haroune
+- Hawre
+- Jan
+- Joshua
+- Juan
+- Julian
+- Junailo
+- Luca
+- Micha
+- Nicklas
+- Rida
+- Rizvan
+- Rychano
+- Timo
+- Zedrick
